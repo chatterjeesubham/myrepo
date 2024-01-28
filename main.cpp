@@ -1,4 +1,8 @@
 #include<iostream>
+void sum()
+{
+    //
+}
 int main()
 {
     std::cout<<"hello world";

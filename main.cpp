@@ -1,6 +1,10 @@
 #include<iostream>
 void sum()
 {
+
+}
+void diff()
+{
     //
 }
 int main()

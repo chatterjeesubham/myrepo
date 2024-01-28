@@ -1,4 +1,8 @@
 #include<iostream>
+void diff()
+{
+    //
+}
 int main()
 {
     std::cout<<"hello world";

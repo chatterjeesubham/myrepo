@@ -9,10 +9,10 @@ void diff()
 }
 void mul()
 {
-    
 }
 void div()
 {
+  int a,b,c;
 }
 int main()
 {

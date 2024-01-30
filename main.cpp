@@ -11,6 +11,9 @@ void mul()
 {
     
 }
+void div()
+{
+}
 int main()
 {
     int a=10;
